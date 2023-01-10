@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace 'com.plcoding.meditationuiyoutube'
     compileSdk 30
 
     defaultConfig {
